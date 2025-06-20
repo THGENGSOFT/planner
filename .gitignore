@@ -1,0 +1,6 @@
+# Ignorar pasta de exportação de arquivos Excel
+exportados/
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
